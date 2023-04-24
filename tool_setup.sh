@@ -34,6 +34,15 @@ sudo apt-get install --no-install-recommends \
  linux-tools-common \
  linux-tools-4.15.0-29-generic \
  linux-tools-generic \
+ build-essential \ 
+ cmake \
+ vim-nox \
+ mono-complete \
+ golang \
+ nodejs \
+ openjdk-17-jdk \
+ openjdk-17-jre \
+ npm \
  -y
 
 # Install other noteworthy languages
